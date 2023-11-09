@@ -1,0 +1,51 @@
+C:\Users\Vince Vagay\Desktop\School Files\C#\Wordle\Wordle\bin\Debug\net6.0-windows\Wordle.exe
+C:\Users\Vince Vagay\Desktop\School Files\C#\Wordle\Wordle\bin\Debug\net6.0-windows\Wordle.deps.json
+C:\Users\Vince Vagay\Desktop\School Files\C#\Wordle\Wordle\bin\Debug\net6.0-windows\Wordle.runtimeconfig.json
+C:\Users\Vince Vagay\Desktop\School Files\C#\Wordle\Wordle\bin\Debug\net6.0-windows\Wordle.dll
+C:\Users\Vince Vagay\Desktop\School Files\C#\Wordle\Wordle\bin\Debug\net6.0-windows\Wordle.pdb
+C:\Users\Vince Vagay\Desktop\School Files\C#\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.csproj.AssemblyReference.cache
+C:\Users\Vince Vagay\Desktop\School Files\C#\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.Form1.resources
+C:\Users\Vince Vagay\Desktop\School Files\C#\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.csproj.GenerateResource.cache
+C:\Users\Vince Vagay\Desktop\School Files\C#\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vince Vagay\Desktop\School Files\C#\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.AssemblyInfoInputs.cache
+C:\Users\Vince Vagay\Desktop\School Files\C#\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.AssemblyInfo.cs
+C:\Users\Vince Vagay\Desktop\School Files\C#\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.csproj.CoreCompileInputs.cache
+C:\Users\Vince Vagay\Desktop\School Files\C#\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.dll
+C:\Users\Vince Vagay\Desktop\School Files\C#\Wordle\Wordle\obj\Debug\net6.0-windows\refint\Wordle.dll
+C:\Users\Vince Vagay\Desktop\School Files\C#\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.pdb
+C:\Users\Vince Vagay\Desktop\School Files\C#\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.genruntimeconfig.cache
+C:\Users\Vince Vagay\Desktop\School Files\C#\Wordle\Wordle\obj\Debug\net6.0-windows\ref\Wordle.dll
+C:\Users\vince\OneDrive\Desktop\Wordle\Wordle\bin\Debug\net6.0-windows\Wordle.exe
+C:\Users\vince\OneDrive\Desktop\Wordle\Wordle\bin\Debug\net6.0-windows\Wordle.deps.json
+C:\Users\vince\OneDrive\Desktop\Wordle\Wordle\bin\Debug\net6.0-windows\Wordle.runtimeconfig.json
+C:\Users\vince\OneDrive\Desktop\Wordle\Wordle\bin\Debug\net6.0-windows\Wordle.dll
+C:\Users\vince\OneDrive\Desktop\Wordle\Wordle\bin\Debug\net6.0-windows\Wordle.pdb
+C:\Users\vince\OneDrive\Desktop\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.csproj.AssemblyReference.cache
+C:\Users\vince\OneDrive\Desktop\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.Form1.resources
+C:\Users\vince\OneDrive\Desktop\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.csproj.GenerateResource.cache
+C:\Users\vince\OneDrive\Desktop\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vince\OneDrive\Desktop\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.AssemblyInfoInputs.cache
+C:\Users\vince\OneDrive\Desktop\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.AssemblyInfo.cs
+C:\Users\vince\OneDrive\Desktop\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.csproj.CoreCompileInputs.cache
+C:\Users\vince\OneDrive\Desktop\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.dll
+C:\Users\vince\OneDrive\Desktop\Wordle\Wordle\obj\Debug\net6.0-windows\refint\Wordle.dll
+C:\Users\vince\OneDrive\Desktop\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.pdb
+C:\Users\vince\OneDrive\Desktop\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.genruntimeconfig.cache
+C:\Users\vince\OneDrive\Desktop\Wordle\Wordle\obj\Debug\net6.0-windows\ref\Wordle.dll
+C:\Users\vince\OneDrive\Desktop\Desktop Apps\School\Wordle\Wordle\bin\Debug\net6.0-windows\Wordle.exe
+C:\Users\vince\OneDrive\Desktop\Desktop Apps\School\Wordle\Wordle\bin\Debug\net6.0-windows\Wordle.deps.json
+C:\Users\vince\OneDrive\Desktop\Desktop Apps\School\Wordle\Wordle\bin\Debug\net6.0-windows\Wordle.runtimeconfig.json
+C:\Users\vince\OneDrive\Desktop\Desktop Apps\School\Wordle\Wordle\bin\Debug\net6.0-windows\Wordle.dll
+C:\Users\vince\OneDrive\Desktop\Desktop Apps\School\Wordle\Wordle\bin\Debug\net6.0-windows\Wordle.pdb
+C:\Users\vince\OneDrive\Desktop\Desktop Apps\School\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.csproj.AssemblyReference.cache
+C:\Users\vince\OneDrive\Desktop\Desktop Apps\School\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.Form1.resources
+C:\Users\vince\OneDrive\Desktop\Desktop Apps\School\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.csproj.GenerateResource.cache
+C:\Users\vince\OneDrive\Desktop\Desktop Apps\School\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vince\OneDrive\Desktop\Desktop Apps\School\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.AssemblyInfoInputs.cache
+C:\Users\vince\OneDrive\Desktop\Desktop Apps\School\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.AssemblyInfo.cs
+C:\Users\vince\OneDrive\Desktop\Desktop Apps\School\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.csproj.CoreCompileInputs.cache
+C:\Users\vince\OneDrive\Desktop\Desktop Apps\School\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.dll
+C:\Users\vince\OneDrive\Desktop\Desktop Apps\School\Wordle\Wordle\obj\Debug\net6.0-windows\refint\Wordle.dll
+C:\Users\vince\OneDrive\Desktop\Desktop Apps\School\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.pdb
+C:\Users\vince\OneDrive\Desktop\Desktop Apps\School\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.genruntimeconfig.cache
+C:\Users\vince\OneDrive\Desktop\Desktop Apps\School\Wordle\Wordle\obj\Debug\net6.0-windows\ref\Wordle.dll
